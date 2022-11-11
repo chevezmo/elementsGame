@@ -46,4 +46,14 @@
     height: 1.8rem;
     width: 1.2rem;
     background-color: black;
-  }
+}
+
+br {
+    display:block;
+    content: "";
+    margin-top: 0.5rem;
+}
+
+body{
+    padding-top: 1rem;
+}
